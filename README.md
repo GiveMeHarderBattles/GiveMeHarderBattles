@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GiveMeHarderBattles
+- 👀 I’m interested in grinding
+- 🌱 I’m currently learning JS and C#
+- 💞️ I’m looking to collaborate on some webs and suff
+- 📫 How to reach me ngduyanh2812@gmail.com
